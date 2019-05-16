@@ -15,7 +15,6 @@
 ./obj/image016.jpg
 ./obj/image017.jpg
 ./obj/image018.jpg
-./obj/image019.jpg
 ./obj/image020.jpg
 ./obj/image021.jpg
 ./obj/image023.jpg
@@ -34,7 +33,6 @@
 ./obj/image037.jpg
 ./obj/image038.jpg
 ./obj/image039.jpg
-./obj/image040.jpg
 ./obj/image041.jpg
 ./obj/image042.jpg
 ./obj/image043.jpg
@@ -74,7 +72,6 @@
 ./obj/image081.jpg
 ./obj/image082.jpg
 ./obj/image083.jpg
-./obj/image084.jpg
 ./obj/image085.jpg
 ./obj/image086.jpg
 ./obj/image087.jpg
@@ -108,7 +105,6 @@
 ./obj/image118.jpg
 ./obj/image119.jpg
 ./obj/image120.jpg
-./obj/image122.jpg
 ./obj/image123.jpg
 ./obj/image124.jpg
 ./obj/image125.jpg
@@ -120,22 +116,18 @@
 ./obj/image131.jpg
 ./obj/image133.jpg
 ./obj/image134.jpg
-./obj/image135.jpg
 ./obj/image136.jpg
 ./obj/image137.jpg
 ./obj/image138.jpg
 ./obj/image139.jpg
 ./obj/image140.jpg
 ./obj/image141.jpg
-./obj/image142.jpg
 ./obj/image144.jpg
 ./obj/image145.jpg
 ./obj/image146.jpg
 ./obj/image147.jpg
 ./obj/image148.jpg
 ./obj/image149.jpg
-./obj/image150.jpg
-./obj/image151.jpg
 ./obj/image152.jpg
 ./obj/image153.jpg
 ./obj/image155.jpg
