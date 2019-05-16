@@ -1,0 +1,16 @@
+./obj/image011.jpg
+./obj/image022.jpg
+./obj/image033.jpg
+./obj/image044.jpg
+./obj/image055.jpg
+./obj/image066.jpg
+./obj/image077.jpg
+./obj/image088.jpg
+./obj/image099.jpg
+./obj/image110.jpg
+./obj/image121.jpg
+./obj/image132.jpg
+./obj/image143.jpg
+./obj/image154.jpg
+./obj/image165.jpg
+./obj/image176.jpg
